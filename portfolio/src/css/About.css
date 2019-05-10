@@ -1,0 +1,45 @@
+#about {
+  padding-top: 96px;
+  padding-bottom: 66px;
+  overflow: hidden;
+}
+
+.row {
+  width: 96%;
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+.image-container {
+  width: 25%;
+  position: relative;
+  padding: 0 20px;
+  min-height: 1px;
+  float: left;
+}
+
+.profile-pic {
+  position: relative;
+  with: 250px;
+  height: 250px;
+  border-radius: 100%;
+  max-width: 100%;
+}
+
+#about .about-container {
+  padding-right: 5px;
+}
+
+.about-container {
+  float: right;
+  width: 65%;
+  position: relative;
+  padding: 0 20px;
+}
+
+h1 {
+  font: 'opensans-bold', sans-serif;
+  margin-bottom: 12px;
+  font-weight: 900;
+  font-size: 2em;
+}

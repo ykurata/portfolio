@@ -1,0 +1,19 @@
+/* Style for Header component  */
+header {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 250px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 80px;
+  color: white;
+}
+
+header p {
+  color: white;
+  font-weight: 700;
+  font-size: 1.75rem;
+  font-style: italic;
+}

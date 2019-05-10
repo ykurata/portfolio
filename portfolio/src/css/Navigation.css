@@ -1,0 +1,28 @@
+/* Styling for Navigation component */
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #4256f4;
+  align-items: center;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+
+.header-logo {
+  font-size: 30px;
+  color: white;
+};
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
