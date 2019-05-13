@@ -5,7 +5,7 @@ import profilePhoto from '../image/profile-photo.jpg';
 class About extends Component {
   render(){
     return (
-      <section id="about">
+      <section id="About">
         <div className="row">
           <div className="image-container">
             <img className="profile-pic" src={profilePhoto} alt="profile photo"></img>

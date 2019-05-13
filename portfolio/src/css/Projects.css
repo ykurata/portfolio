@@ -1,0 +1,61 @@
+#Project {
+  /* background-color: #7ecef7; */
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.main-title {
+  text-align: center;
+  margin-bottom: 75px;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #222222;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 16px;
+  color: #777777;
+  font-weight: 300;
+  margin-bottom: 0px;
+}
+
+.row {
+  margin: auto;
+  max-width: initial;
+}
+
+.col {
+  width: 30%;
+  min-height: 1px;
+  padding-right: 20px;
+  padding-left: 15px;
+  float: left;
+  display: flex;
+}
+
+.project-item {
+  text-align: center;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  margin-bottom: 30px;
+}
+
+.project-photo {
+  width: 300px;
+  height: 250px;
+}
