@@ -4,6 +4,8 @@ import Navigation from './components/Navigation';
 import Header from './components/Header';
 import About from './components/About';
 import Projects from './components/Projects';
+import Contact from './components/Contact';
+
 
 class App extends Component {
   render() {
@@ -13,6 +15,7 @@ class App extends Component {
         <Header title="Hi, I'm Yasuko Kurata" />
         <About />
         <Projects />
+        <Contact />
       </div>
     );
   }
