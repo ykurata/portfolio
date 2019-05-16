@@ -13,16 +13,16 @@ nav {
   color: white;
 };
 
-nav ul {
+ul {
   list-style: none;
 }
 
-nav ul li {
+li {
   display: inline-block;
   margin-right: 40px;
 }
 
-nav ul li a {
+a {
   text-decoration: none;
   color: white;
 }

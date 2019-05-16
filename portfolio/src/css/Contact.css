@@ -1,13 +1,13 @@
 #Contact {
-  /* background-color: #7ecef7; */
+  background-color: #4256f4;
   padding-top: 50px;
-  padding-bottom: 50px;
+  /* padding-bottom: 50px; */
   display: flex;
 }
 
-.container {
+.contact-container {
   width: 100%;
-  padding-top: 50px;
+  padding-top: 15px;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -16,13 +16,14 @@
 
 .main-title {
   text-align: center;
-  margin-bottom: 75px;
+  margin-bottom: 30px;
 }
 
-h2 {
-  font-size: 36px;
-  font-weight: 600;
-  color: #222222;
+.contact-title {
+  /* font-size: 36px;
+  font-weight: 600; */
+  /* color: #222222; */
+  color: white;
   font-family: "Poppins", sans-serif;
   margin-bottom: 10px;
 }
@@ -36,7 +37,7 @@ ul {
 }
 
 li {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .text {
@@ -46,11 +47,12 @@ li {
 
 .info-text {
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
+  color: white;
 }
 
 .icon {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 a:link { color: black; }

@@ -1,0 +1,42 @@
+#Skills {
+  /* background-color: #4256f4; */
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+}
+
+.skills-container {
+  width: 100%;
+  padding-top: 15px;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.main-title {
+  text-align: center;
+  margin-bottom: 75px;
+}
+
+.icons-container {
+  display: flex;
+  justify-content: space-around;
+  font-size: 5rem;
+  margin-top: 100px;
+  flex-wrap: wrap;
+}
+
+.icon-inner-container, .icon-inner-container-python {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+.icon-inner-container-js, .icon-inner-container-bootstrap {
+  margin-top: 20px;
+}
+
+.icon-inner-container-react {
+  margin-top: 20px;
+  margin-left: 15px;
+}

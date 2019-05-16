@@ -1,45 +1,55 @@
 #About {
-  padding-top: 96px;
-  padding-bottom: 66px;
+  padding-top: 90px;
+  padding-bottom: 90px;
   overflow: hidden;
 }
 
-.row {
-  width: 96%;
-  max-width: 1020px;
-  margin: 0 auto;
+.about-cotainer {
+  margin: 20px;
 }
 
 .image-container {
   width: 25%;
   position: relative;
-  padding: 0 20px;
+  padding-left: 70px;
   min-height: 1px;
   float: left;
 }
 
 .profile-pic {
   position: relative;
-  with: 250px;
+  width: 250px;
   height: 250px;
   border-radius: 100%;
   max-width: 100%;
 }
 
-#about .about-container {
+#about .about-text-container {
   padding-right: 5px;
 }
 
-.about-container {
+.about-text-container {
   float: right;
   width: 65%;
   position: relative;
   padding: 0 20px;
 }
 
-h1 {
+/* h1 {
   font: 'opensans-bold', sans-serif;
   margin-bottom: 12px;
   font-weight: 900;
   font-size: 2em;
+} */
+
+h1 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #222222;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 10px;
+}
+
+.about-me {
+  font-size: 18px;
 }

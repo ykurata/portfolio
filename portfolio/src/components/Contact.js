@@ -6,9 +6,9 @@ class Contact extends Component {
   render() {
     return (
       <section id="Contact">
-        <div className="container">
+        <div className="contact-container">
           <div className="main-title">
-            <h2>Contact</h2>
+            <h2 className="contact-title">Contact</h2>
           </div>
           <div className="info-container">
             <ul>

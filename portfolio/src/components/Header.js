@@ -13,7 +13,7 @@ class Header extends Component {
     return (
       <header id="Home" style={myStyle}>
         <h1>{this.props.title}</h1>
-        <p>I'm yasuko kurata, nice to meet you!</p>
+        <p>Web developer who's passionate about coding!</p>
       </header>
     )
   }
