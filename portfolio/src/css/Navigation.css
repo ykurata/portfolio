@@ -13,16 +13,16 @@ nav {
   color: white;
 };
 
-ul {
+.navigation-ul {
   list-style: none;
 }
 
-li {
+.navigation-li {
   display: inline-block;
   margin-right: 40px;
 }
 
-a {
+.navigation-a {
   text-decoration: none;
   color: white;
 }
