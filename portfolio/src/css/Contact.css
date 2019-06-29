@@ -1,15 +1,13 @@
 #Contact {
   background-color: #4256f4;
   padding-top: 50px;
-  /* padding-bottom: 50px; */
+  padding-bottom: 50px;
   display: flex;
 }
 
 .contact-container {
   width: 100%;
-  padding-top: 15px;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding: 15px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -26,11 +24,12 @@
   color: white;
   font-family: "Poppins", sans-serif;
   margin-bottom: 10px;
+  margin-top: 0px;
 }
 
 .info-container {
   text-align: center;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
 }
 
 .emailaddress {
@@ -63,4 +62,4 @@ a:link { color: black; }
 
 a:visited { color: black; }
 
-a:hover { color: grey; }
+a:hover { color: white; }

@@ -11,12 +11,12 @@ class Contact extends Component {
             <h2 className="contact-title">Contact</h2>
           </div>
           <div className="info-container">
-            <span className="email-icon">
+            {/* <span className="email-icon">
               <i className="far fa-envelope"></i>
-            </span>
-            <span className="emailaddress">
+            </span> */}
+            <div className="emailaddress">
               <p className="info-text">yasukokurata@gmail.com</p>
-            </span>
+            </div>
 
             <div className="links-div">
               <a href="https://www.linkedin.com/in/yasuko-kurata/">
