@@ -8,7 +8,7 @@ class About extends Component {
       <section id="About">
         <div className="about-container">
           <div className="image-container">
-            <img className="profile-pic" src={profilePhoto} alt="profile photo"></img>
+            <img className="profile-pic" src={profilePhoto} alt="profile"></img>
           </div>
           <div className="about-text-container">
             <h2>About Me</h2>

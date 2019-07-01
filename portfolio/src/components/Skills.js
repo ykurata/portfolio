@@ -17,7 +17,7 @@ class Skills extends Component {
                 <p>HTML5</p>
               </div>
             </div>
-            <div className="skill-icon">
+            <div className="icon-container">
               <i className="fab fa-css3-alt"></i>
               <div className="icon-inner-container">
                 <p>CSS3</p>

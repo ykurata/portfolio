@@ -3,6 +3,7 @@ import { Button, Card, CardText, CardTitle, CardActions } from 'react-mdl';
 import '../css/Projects.css';
 import recordsDatabase from '../image/records-database.png';
 import project10 from '../image/project10.png';
+import python12 from '../image/python-project12.png';
 
 class Projects extends Component {
   render() {
@@ -18,8 +19,8 @@ class Projects extends Component {
               <Card shadow={5} style={{width: '320px', height: '340px', margin: 'auto'}}>
                   <CardTitle expand style={{color: '#fff', background: `url(${recordsDatabase}) bottom right 15% no-repeat #46B6AC`, backgroundSize: '320px 200px' }}></CardTitle>
                   <CardText>
-                      App that has CRUD operations and session based authentication.
-                      Node, and framework Express, along with Sqlite database.
+                      Save and search your records!
+                      SQL based app that has CRUD operation and session based authentication.
                   </CardText>
                   <CardActions border>
                       <a href="https://github.com/ykurata/SQL-records-database"><Button colored>GitHub</Button></a>
@@ -29,25 +30,25 @@ class Projects extends Component {
             </div>
             <div className="col">
               <Card shadow={5} style={{width: '320px', height: '340px', margin: 'auto'}}>
-                  <CardTitle expand style={{color: '#fff', background: `url(${project10}) bottom right 15% no-repeat #46B6AC`, backgroundSize: '320px 200px' }}></CardTitle>
+                  <CardTitle expand style={{color: '#fff', background: `url(${project10}) bottom right 15% no-repeat #46B6AC`, backgroundSize: '320px 201px' }}></CardTitle>
                   <CardText>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Aenan convallis.
+                      MongoDB, React, Node and Express(MERN) app.
+                      It has CRUD operation and user authentication.
                   </CardText>
                   <CardActions border>
-                      <Button colored>View Updates</Button>
+                      <a href="https://github.com/ykurata/FSJS-techdegree-project-10"><Button colored>GitHub</Button></a>
                   </CardActions>
               </Card>
             </div>
             <div className="col">
-              <Card shadow={5} style={{width: '320px', height: '320px', margin: 'auto'}}>
-                  <CardTitle expand style={{color: '#fff', background: 'url(http://www.getmdl.io/assets/demos/dog.png) bottom right 15% no-repeat #46B6AC'}}>Update</CardTitle>
+              <Card shadow={5} style={{width: '320px', height: '340px', margin: 'auto'}}>
+                  <CardTitle expand style={{color: '#fff', background: `url(${python12}) bottom right 15% no-repeat #46B6AC`, backgroundSize: '320px 201px' }}></CardTitle>
                   <CardText>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Aenan convallis.
+                      Python project. A site where people can sign up to find projects
+                      that need help or post their own projects for other people to join.
                   </CardText>
                   <CardActions border>
-                      <Button colored>View Updates</Button>
+                      <a href="https://github.com/ykurata/techdegree-project-12"><Button colored>GitHub</Button></a>
                   </CardActions>
               </Card>
             </div>
