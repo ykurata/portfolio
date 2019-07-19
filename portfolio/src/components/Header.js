@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
-import Background from '../image/laptop-photo-2.jpg';
+// import Background from '../image/laptop-photo-2.jpg';
+import Sunset from '../image/sunset.jpg';
 import '../css/Header.css';
 
 const myStyle = {
-  backgroundImage : `url(${Background})`,
+  backgroundImage : `url(${Sunset})` ,
   backgroundSize: 'cover',
-  height: '70vh',
+  height: '100vh',
+
 }
 
 class Header extends Component {

@@ -26,7 +26,7 @@ class Contact extends Component {
               </a>
               <a className="icon" href="https://github.com/ykurata">
                 <span className="icon-link">
-                  <i class="fab fa-github"></i>
+                  <i className="fab fa-github"></i>
                 </span>
               </a>
             </div>

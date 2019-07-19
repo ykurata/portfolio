@@ -1,12 +1,12 @@
 #Project {
-  /* background-color: #7ecef7; */
   padding-top: 50px;
   padding-bottom: 50px;
   display: flex;
 }
 
-.container {
+.projectContainer {
   width: 100%;
+  padding-top: 15px;
   padding-right: 50px;
   padding-left: 50px;
   margin-right: auto;
@@ -41,10 +41,10 @@ p {
   width: 100%;
 }
 
-.projectPhoto-left {
+.projectPhoto{
   width: 450px;
   height: 280px;
-  margin-left: 70px;
+  margin-left: 80px;
   margin-right: 50px;
   float: left;
   text-align: right;
@@ -55,18 +55,18 @@ p {
 .projectPhoto-right {
   width: 450px;
   height: 280px;
-  margin-left: 50px;
-  margin-right: 70px;
+  margin-left: 0px;
+  margin-right: 80px;
   float: left;
   text-align: right;
   display: inline;
   border: 10px solid;
 }
 
-.projectCopy-right {
+.projectCopy{
   float: left;
   text-align: left;
-  margin-right: 50px;
+  margin-left: 60px;
   display: inline;
   width: 45%;
 }
@@ -74,7 +74,7 @@ p {
 .projectCopy-left {
   float: left;
   text-align: left;
-  margin-left: 50px;
+  margin-left: 70px;
   display: inline;
   width: 45%;
 }
@@ -114,33 +114,4 @@ p {
 .button:hover {
   background-color: #f09ce8;
   color: white;
-}
-
-
-
-.row {
-  margin: auto;
-  max-width: initial;
-}
-
-.col {
-  width: 30%;
-  min-height: 1px;
-  padding-right: 20px;
-  padding-left: 15px;
-  float: left;
-  display: flex;
-}
-
-.project-item {
-  text-align: center;
-  padding-right: 40px;
-  padding-left: 40px;
-  padding-bottom: 40px;
-  margin-bottom: 30px;
-}
-
-.project-photo {
-  width: 300px;
-  height: 250px;
 }
