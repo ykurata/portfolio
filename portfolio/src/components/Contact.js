@@ -19,12 +19,12 @@ class Contact extends Component {
             </div>
 
             <div className="links-div">
-              <a href="https://www.linkedin.com/in/yasuko-kurata/">
+              <a className="icon" href="https://www.linkedin.com/in/yasuko-kurata/">
                 <span className="icon-link">
                   <i className="fab fa-linkedin"></i>
                 </span>
               </a>
-              <a href="https://github.com/ykurata">
+              <a className="icon" href="https://github.com/ykurata">
                 <span className="icon-link">
                   <i class="fab fa-github"></i>
                 </span>

@@ -58,8 +58,8 @@
 }
 
 
-a:link { color: black; }
+.icon:link { color: black; }
 
-a:visited { color: black; }
+.icon:visited { color: black; }
 
-a:hover { color: white; }
+.icon:hover { color: white; }

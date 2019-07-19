@@ -28,11 +28,95 @@ h1 {
 }
 
 p {
-  font-size: 16px;
   color: #777777;
-  font-weight: 300;
+  font-weight: 400;
+  font-size: 20px;
   margin-bottom: 0px;
 }
+
+.project-container {
+  display: inline-block;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 100%;
+}
+
+.projectPhoto-left {
+  width: 450px;
+  height: 280px;
+  margin-left: 70px;
+  margin-right: 50px;
+  float: left;
+  text-align: right;
+  display: inline;
+  border: 10px solid;
+}
+
+.projectPhoto-right {
+  width: 450px;
+  height: 280px;
+  margin-left: 50px;
+  margin-right: 70px;
+  float: left;
+  text-align: right;
+  display: inline;
+  border: 10px solid;
+}
+
+.projectCopy-right {
+  float: left;
+  text-align: left;
+  margin-right: 50px;
+  display: inline;
+  width: 45%;
+}
+
+.projectCopy-left {
+  float: left;
+  text-align: left;
+  margin-left: 50px;
+  display: inline;
+  width: 45%;
+}
+
+.projectCopy h3 {
+  margin-top: 0;
+  /* font-weight: bold; */
+}
+
+.projectButton {
+  display: flex;
+}
+
+.button {
+  background-color: #f09ce8;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button {
+  background-color: white;
+  color: black;
+  border: 2px solid #f09ce8;
+  margin-right: 20px;
+}
+
+.button:hover {
+  background-color: #f09ce8;
+  color: white;
+}
+
+
 
 .row {
   margin: auto;
