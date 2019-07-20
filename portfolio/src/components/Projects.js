@@ -55,8 +55,8 @@ class Projects extends Component {
               <h5>Python / Django / Sqlite</h5>
               <div className="copy">
                 <h6>
-                  A site where people can sign up to find projects.<br></br>
-                  that need help or post their own projects for other people to join.
+                  A site where people can sign up to find projects that <br></br>
+                  need help or post their own projects for other people to join.
                 </h6>
               </div>
               <div className="projectButton">

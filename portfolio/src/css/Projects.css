@@ -44,7 +44,7 @@ p {
 .projectPhoto{
   width: 450px;
   height: 280px;
-  margin-left: 80px;
+  margin-left: 70px;
   margin-right: 50px;
   float: left;
   text-align: right;
@@ -55,8 +55,8 @@ p {
 .projectPhoto-right {
   width: 450px;
   height: 280px;
-  margin-left: 0px;
-  margin-right: 80px;
+  margin-left: 50px;
+  margin-right: 70px;
   float: left;
   text-align: right;
   display: inline;
@@ -66,7 +66,7 @@ p {
 .projectCopy{
   float: left;
   text-align: left;
-  margin-left: 60px;
+  margin-left: 70px;
   display: inline;
   width: 45%;
 }
