@@ -15,7 +15,7 @@ class About extends Component {
             <p className="about-me">Hi, I'm Yasuko Kurata, web developer who's looking for a opportunity to join a great team!<br></br>
               I learned coding skills from online tech school called Team Treehouse. I completed two techdegrees,
               <strong>Full Stack Javascript Techdegree</strong> and <strong>Python Web Development Techdegree</strong> which are Team Treehouse's online leanring programs.<br></br>
-              I'm familiar with front end langages and back end languages, such as HTML, CSS, Javascript, JQuery, NodeJS, and Python.<br></br>
+              I'm familiar with front end langages and back end languages, such as HTML, CSS, Javascript, JQuery, NodeJS, Python and Django.<br></br>
               I'm fast learner, eager to learn new skills, and great team player.
             </p>
           </div>

@@ -22,7 +22,8 @@ class Projects extends Component {
               <h5>JavaScript / Sqlite / HTML / CSS</h5>
               <div className="copy">
                 <h6>Save and search your records! <br></br>
-                  SQL based app that has CRUD operation and session based authentication.
+                  SQL based app that helps you to save your records data.
+                  Session based authentication, and CRUD operations.
                 </h6>
               </div>
               <div className="projectButton">
@@ -36,8 +37,10 @@ class Projects extends Component {
               <h3>REST API with React</h3>
               <h5>MongoDB / React / Node / Express</h5>
               <div className="copy">
-                <h6>App with React and a REST API. <br></br>
-                  User can sign in and find, create, update, delete courses.
+                <h6>An app with React and a REST API with Express. <br></br>
+                  Team Treehouse Full Stack JavaScript Techdegree's 10th projecct.
+                  An app that users can find courses.
+                  User can create an account and find, create, update, delete courses.
                 </h6>
               </div>
               <div className="projectButton">
@@ -56,8 +59,10 @@ class Projects extends Component {
               <h5>Python / Django / Sqlite</h5>
               <div className="copy">
                 <h6>
-                  A site where people can sign up to find projects that <br></br>
-                  need help or post their own projects for other people to join.
+                  Team Treehouse Python Web Development Techdegree 12th project.<br></br>
+                  A site where people can sign up to find projects that 
+                  need help or post their own projects for other people to join.<br></br>
+                  You can accept or refuse applications applied for projects you posted.
                 </h6>
               </div>
               <div className="projectButton">
@@ -68,11 +73,12 @@ class Projects extends Component {
           </div>
           <div className="project-container">
             <div className="projectCopy-left">
-              <h3>REST API with React</h3>
-              <h5>MongoDB / React / Node / Express</h5>
+              <h3>Birthday Reminder</h3>
+              <h5>Python / Django / Sqlite</h5>
               <div className="copy">
-                <h6>App with React and a REST API. <br></br>
-                  User can sign in and find, create, update, delete courses.
+                <h6>An app that helps you to remember and remind your friends birthdays. <br></br>
+                  User can login and save, edit or delete birthdays you don't want to forget.
+                  There is a notification displayed when someone's birthday is coming.
                 </h6>
               </div>
               <div className="projectButton">
