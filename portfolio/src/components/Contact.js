@@ -11,9 +11,6 @@ class Contact extends Component {
             <h2 className="contact-title">Contact</h2>
           </div>
           <div className="info-container">
-            {/* <span className="email-icon">
-              <i className="far fa-envelope"></i>
-            </span> */}
             <div className="emailaddress">
               <p className="info-text">yasukokurata@gmail.com</p>
             </div>
