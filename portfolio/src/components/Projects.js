@@ -9,7 +9,7 @@ class Projects extends Component {
   render() {
     return (
       <section id="Projects">
-        <div className="projectContainer">
+        <div className="container">
           <div className="main-title">
             <h2>Projects</h2>
             <p className="project-p">Please check out my projects!</p>

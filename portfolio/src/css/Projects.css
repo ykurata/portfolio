@@ -1,10 +1,10 @@
-#Project {
+#Projects {
   padding-top: 50px;
   padding-bottom: 50px;
   display: flex;
 }
 
-.projectContainer {
+.container {
   width: 100%;
   padding-top: 15px;
   padding-right: 50px;
