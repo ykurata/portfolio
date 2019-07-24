@@ -20,9 +20,6 @@
 }
 
 .contact-title {
-  /* font-size: 36px;
-  font-weight: 600; */
-  /* color: #222222; */
   color: white;
   font-family: "Poppins", sans-serif;
   margin-bottom: 10px;
@@ -31,7 +28,6 @@
 
 .info-container {
   text-align: center;
-  /* margin-bottom: 50px; */
 }
 
 .emailaddress {

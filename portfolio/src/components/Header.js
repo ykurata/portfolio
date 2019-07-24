@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import profile from '../image/profile.jpg';
 import '../css/Header.css';
 import sunset from '../image/sunset-2.jpg';
 
