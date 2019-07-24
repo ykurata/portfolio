@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
-import profile from '../image/profile.jpg';
+// import profile from '../image/profile.jpg';
 import '../css/Header.css';
+import sunset from '../image/sunset-2.jpg';
 
 const myStyle = {
-  backgroundImage : `url(${profile})` ,
+  backgroundImage : `url(${sunset})` ,
   backgroundSize: 'cover',
   height: '100vh',
 

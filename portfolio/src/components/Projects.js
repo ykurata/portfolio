@@ -21,8 +21,8 @@ class Projects extends Component {
               <h3>Records Database</h3>
               <h5>JavaScript / Sqlite / HTML / CSS</h5>
               <div className="copy">
-                <h6>Save and search your records! <br></br>
-                  SQL based app that helps you to save your records data.
+                <h6>This application is for the music and record lovers. Great for storing and searching your record collection! <br></br>
+                  SQL based app that helps you to save your record data.
                   Session based authentication, and CRUD operations.
                 </h6>
               </div>
@@ -37,7 +37,7 @@ class Projects extends Component {
               <h3>REST API with React</h3>
               <h5>MongoDB / React / Node / Express</h5>
               <div className="copy">
-                <h6>An app with React and a REST API with Express. <br></br>
+                <h6>A React app with and a REST API and Express. <br></br>
                   Team Treehouse Full Stack JavaScript Techdegree's 10th projecct.
                   An app that users can find courses.
                   User can create an account and find, create, update, delete courses.
@@ -60,7 +60,7 @@ class Projects extends Component {
               <div className="copy">
                 <h6>
                   Team Treehouse Python Web Development Techdegree 12th project.<br></br>
-                  A site where people can sign up to find projects that 
+                  A site where people can sign up to find projects that
                   need help or post their own projects for other people to join.<br></br>
                   You can accept or refuse applications applied for projects you posted.
                 </h6>
@@ -76,9 +76,9 @@ class Projects extends Component {
               <h3>Birthday Reminder</h3>
               <h5>Python / Django / Sqlite</h5>
               <div className="copy">
-                <h6>An app that helps you to remember and remind your friends birthdays. <br></br>
+                <h6>An app that helps you remember your friends birthdays by sending a reminder to slack. <br></br>
                   User can login and save, edit or delete birthdays you don't want to forget.
-                  There is a notification displayed when someone's birthday is coming.
+                  Sends a slack notification on the day of your friend or families birthday so you no longer have to check facebook.
                 </h6>
               </div>
               <div className="projectButton">

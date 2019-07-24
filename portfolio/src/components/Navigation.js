@@ -3,7 +3,7 @@ import '../css/Navigation.css';
 
 class Navigation extends Component {
   render() {
-    const sections = ["Home", "About", "Skills", "Projects", "Contact"];
+    const sections = ["About", "Skills", "Projects", "Contact"];
     const navLinks = sections.map( (section, i) => {
       return (
         <li className="navigation-li" key={i}><a href={'#' + section} className="navigation-a">{section}</a></li>
@@ -11,7 +11,7 @@ class Navigation extends Component {
     });
     return (
       <nav>
-        <h2 className="header-logo">{this.props.title}</h2>
+        <h2 className="header-logo">{}</h2>
         <ul className="navigation-ul">
           {navLinks}
         </ul>

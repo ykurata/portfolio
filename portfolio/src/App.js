@@ -13,7 +13,7 @@ class App extends Component {
     return (
       <div>
         <Navigation title="Yasuko Kurata"/>
-        <Header title="Hi, I'm Yasuko Kurata" />
+        <Header title="Yasuko Kurata" />
         <About />
         <Skills />
         <Projects />

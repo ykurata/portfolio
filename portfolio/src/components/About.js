@@ -12,11 +12,13 @@ class About extends Component {
           </div>
           <div className="about-text-container">
             <h2>About Me</h2>
-            <p className="about-me">Hi, I'm Yasuko Kurata, web developer who's looking for a opportunity to join a great team!<br></br>
-              I learned coding skills from online tech school called Team Treehouse. I completed two techdegrees,
-              <strong>Full Stack Javascript Techdegree</strong> and <strong>Python Web Development Techdegree</strong> which are Team Treehouse's online leanring programs.<br></br>
-              I'm familiar with front end langages and back end languages, such as HTML, CSS, Javascript, JQuery, NodeJS, Python and Django.<br></br>
-              I'm fast learner, eager to learn new skills, and great team player.
+            <p className="about-me">Hi I'm Yasuko Kurata, web developer who's looking for an opportunity to join a great team!<br></br>
+              I learned my coding skills from the online tech school <a href="https://teamtreehouse.com">Team Treehouse</a> where I completed both the &nbsp;
+              <strong>Full Stack Javascript Techdegree</strong> and the <strong>Python Web Development Techdegree</strong>.<br></br>
+              I'm experienced in using various languages and frameworks such as HTML, CSS, Javascript, JQuery, NodeJS, Python and Django,
+              along with understanding of relational and non-relational databases.<br></br>
+              I continue to learn new skills on my own but I'm also eager to learn from other as a member of a passionate team and would love to
+              use my abilities to help a company and team grow.
             </p>
           </div>
         </div>
