@@ -1,19 +1,21 @@
 import React, { Component } from 'react';
-import Background from '../image/laptop.jpg';
+// import profile from '../image/profile.jpg';
 import '../css/Header.css';
+import sunset from '../image/sunset-2.jpg';
 
 const myStyle = {
-  backgroundImage : `url(${Background})`,
+  backgroundImage : `url(${sunset})` ,
   backgroundSize: 'cover',
-  height: '70vh',
+  height: '100vh',
+
 }
 
 class Header extends Component {
   render() {
     return (
-      <header style={myStyle}>
+      <header id="Home" style={myStyle}>
         <h1>{this.props.title}</h1>
-        <p>I'm yasuko kurata, nice to meet you!</p>
+        <p>Web developer who's passionate about coding!</p>
       </header>
     )
   }

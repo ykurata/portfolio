@@ -1,8 +1,9 @@
 /* Style for Header component  */
-header {
+#Home {
   margin: 0 auto;
   text-align: center;
   padding-top: 250px;
+  width: 100%;
 }
 
 header h1 {
