@@ -51,16 +51,12 @@
   }
 }
 
-.icon-inner-container, .icon-inner-container-python {
+.icon-inner-container, .icon-inner-container-python, .icon-inner-container-node {
   margin-top: 20px;
   margin-left: 5px;
 }
 
-.icon-inner-container-js {
-  margin-top: 20px;
-}
-
-.icon-inner-container-react {
+.icon-inner-container-react  {
   margin-top: 20px;
   margin-left: 15px;
 }

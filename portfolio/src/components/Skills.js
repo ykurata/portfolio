@@ -12,9 +12,9 @@ class Skills extends Component {
           </div>
           <div className="icons-container">
             <div className="icon-container">
-              <i className="fab fa-js"></i>
-              <div className="icon-inner-container-js">
-                <p>JavaScript</p>
+              <i className="fab fa-node-js"></i>
+              <div className="icon-inner-container-node">
+                <p>NodeJS</p>
               </div>
             </div>
             <div className="icon-container">
