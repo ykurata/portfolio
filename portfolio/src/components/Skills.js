@@ -12,18 +12,6 @@ class Skills extends Component {
           </div>
           <div className="icons-container">
             <div className="icon-container">
-              <i className="fab fa-html5"></i>
-              <div className="icon-inner-container">
-                <p>HTML5</p>
-              </div>
-            </div>
-            <div className="icon-container">
-              <i className="fab fa-css3-alt"></i>
-              <div className="icon-inner-container">
-                <p>CSS3</p>
-              </div>
-            </div>
-            <div className="icon-container">
               <i className="fab fa-js"></i>
               <div className="icon-inner-container-js">
                 <p>JavaScript</p>
@@ -36,15 +24,27 @@ class Skills extends Component {
               </div>
             </div>
             <div className="icon-container">
-              <i className="fab fa-bootstrap"></i>
-              <div className="icon-inner-container-bootstrap">
-                <p>Bootstrap</p>
+              <i className="fas fa-database"></i>
+              <div className="icon-inner-container-database">
+                <p>MongoDB/SQL</p>
               </div>
             </div>
             <div className="icon-container">
               <i className="fab fa-python"></i>
               <div className="icon-inner-container-python">
                 <p>Python</p>
+              </div>
+            </div>
+            <div className="icon-container">
+              <i className="fab fa-html5"></i>
+              <div className="icon-inner-container">
+                <p>HTML5</p>
+              </div>
+            </div>
+            <div className="icon-container">
+              <i className="fab fa-css3-alt"></i>
+              <div className="icon-inner-container">
+                <p>CSS3</p>
               </div>
             </div>
           </div>

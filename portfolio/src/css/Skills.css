@@ -56,11 +56,16 @@
   margin-left: 5px;
 }
 
-.icon-inner-container-js, .icon-inner-container-bootstrap {
+.icon-inner-container-js {
   margin-top: 20px;
 }
 
 .icon-inner-container-react {
   margin-top: 20px;
   margin-left: 15px;
+}
+
+.icon-inner-container-database {
+  margin-top: 20px;
+  margin-left: 0px;
 }

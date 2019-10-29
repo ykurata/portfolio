@@ -27,7 +27,7 @@ class Projects extends Component {
                 </h6>
               </div>
               <div className="projectButton">
-                <button className="button">GitHub</button>
+                <a href="https://github.com/ykurata/SQL-records-database"><button className="button">GitHub</button></a>
                 <button className="button">Live Demo</button>
               </div>
             </div>
@@ -44,7 +44,7 @@ class Projects extends Component {
                 </h6>
               </div>
               <div className="projectButton">
-                <button className="button">GitHub</button>
+                <a href="https://github.com/ykurata/FSJS-techdegree-project-10"><button className="button">GitHub</button></a>
                 <button className="button">Live Demo</button>
               </div>
             </div>
@@ -66,7 +66,7 @@ class Projects extends Component {
                 </h6>
               </div>
               <div className="projectButton">
-                <button className="button">GitHub</button>
+                <a href="https://github.com/ykurata/techdegree-project-12"><button className="button">GitHub</button></a>
                 <button className="button">Live Demo</button>
               </div>
             </div>
@@ -82,7 +82,7 @@ class Projects extends Component {
                 </h6>
               </div>
               <div className="projectButton">
-                <button className="button">GitHub</button>
+                <a href="https://github.com/ykurata/Birthday-reminder"><button className="button">GitHub</button></a>
                 <button className="button">Live Demo</button>
               </div>
             </div>
