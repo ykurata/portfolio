@@ -13,7 +13,7 @@ class Skills extends Component {
           <div className="icons-container">
             <div className="icon-container">
               <i className="fab fa-node-js"></i>
-              <div className="icon-inner-container-node">
+              <div className="icon-inner-container">
                 <p>NodeJS</p>
               </div>
             </div>
@@ -23,7 +23,7 @@ class Skills extends Component {
                 <p>React</p>
               </div>
             </div>
-            <div className="icon-container">
+            <div className="icon-container-database">
               <i className="fas fa-database"></i>
               <div className="icon-inner-container-database">
                 <p>MongoDB/SQL</p>
@@ -37,7 +37,7 @@ class Skills extends Component {
             </div>
             <div className="icon-container">
               <i className="fab fa-html5"></i>
-              <div className="icon-inner-container">
+              <div className="icon-inner-container-html">
                 <p>HTML5</p>
               </div>
             </div>

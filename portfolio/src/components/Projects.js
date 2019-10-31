@@ -19,7 +19,7 @@ class Projects extends Component {
             </div>
             <div className="projectCopy">
               <h3>Records Database</h3>
-              <h5>JavaScript / Sqlite / HTML / CSS</h5>
+              <h5>NodeJS / Sqlite / HTML / CSS</h5>
               <div className="copy">
                 <h6>This application is for the music and record lovers. Great for storing and searching your record collection! <br></br>
                   SQL based app that helps you to save your record data.
@@ -35,7 +35,7 @@ class Projects extends Component {
           <div className="project-container">
             <div className="projectCopy-left">
               <h3>REST API with React</h3>
-              <h5>MongoDB / React / Node / Express</h5>
+              <h5>MongoDB / NodeJS / Express / React</h5>
               <div className="copy">
                 <h6>A React app with and a REST API and Express. <br></br>
                   Team Treehouse Full Stack JavaScript Techdegree's 10th projecct.
