@@ -16,7 +16,7 @@ class Projects extends Component {
             <p className="project-p">Please check out my projects!</p>
           </div>
           <div className="project-container">
-            <div className="projectPhoto" style={{background: `url(${sitter}) no-repeat`, backgroundSize: '435px 270px'}}>
+            <div className="projectPhoto" style={{background: `url(${sitter}) no-repeat`, backgroundSize: '430px 265px'}}>
             </div>
             <div className="projectCopy">
               <h3 className="project-title">Loving Sitter</h3>
@@ -31,12 +31,11 @@ class Projects extends Component {
                 </h6>
               </div>
               <div className="projectButton">
-                <a href="https://github.com/ykurata/SQL-records-database"><button className="button">GitHub</button></a>
+                <a href="https://github.com/hatchways/team-hazelnut"><button className="button">GitHub</button></a>
                 <button className="button">Live Demo</button>
               </div>
             </div>
           </div>
-
           <div className="project-container">
             <div className="projectCopy-left">
               <h3 className="project-title">Records Database</h3>
@@ -52,11 +51,9 @@ class Projects extends Component {
                 <button className="button">Live Demo</button>
               </div>
             </div>
-            <div className="projectPhoto-right" style={{background: `url(${recordsDatabase}) no-repeat`, backgroundSize: '450px 280px'}}>
+            <div className="projectPhoto-right" style={{background: `url(${recordsDatabase}) no-repeat`, backgroundSize: '430px 280px'}}>
             </div>
           </div>
-
-
           <div className="project-container">
             <div className="projectPhoto" style={{background: `url(${project10}) no-repeat`, backgroundSize: '430px 280px'}}>
             </div>
@@ -76,8 +73,6 @@ class Projects extends Component {
               </div>
             </div>
           </div>
-
-
           <div className="project-container">
             <div className="projectCopy-left">
               <h3 className="project-title">Social Network with Django</h3>
@@ -98,7 +93,6 @@ class Projects extends Component {
             <div className="projectPhoto-right" style={{background: `url(${python12}) no-repeat`, backgroundSize: '450px 250px'}}>
             </div>
           </div>
-
           <div className="project-container">
             <div className="projectPhoto" style={{background: `url(${birthday}) no-repeat`, backgroundSize: '440px 280px'}}>
             </div>
