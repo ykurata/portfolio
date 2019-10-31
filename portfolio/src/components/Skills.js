@@ -23,7 +23,7 @@ class Skills extends Component {
                 <p>React</p>
               </div>
             </div>
-            <div className="icon-container-database">
+            <div className="icon-container">
               <i className="fas fa-database"></i>
               <div className="icon-inner-container-database">
                 <p>MongoDB/SQL</p>

@@ -79,9 +79,9 @@ p {
   width: 45%;
 }
 
-.projectCopy h3 {
+.project-title {
+  padding-top: 0;
   margin-top: 0;
-  /* font-weight: bold; */
 }
 
 .projectButton {
