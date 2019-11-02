@@ -20,7 +20,11 @@ class About extends Component {
               <strong>Full Stack Javascript Techdegree</strong> and the <strong>Python Web Development Techdegree</strong>.
             </p>
             <p className="about-me">
-              I'm experienced in using various languages and frameworks such as HTML, CSS, Javascript, JQuery, NodeJS, Python and Django,
+              Recently, I completed <strong>Hatchways Project-Based Development Course</strong>, where I worked within a team, and learned utilized git flow
+              and issue tracking.
+            </p>
+            <p className="about-me">
+              I'm experienced in using various languages and frameworks such as NodeJS, Express, Python and Django,
               along with understanding of relational and non-relational databases.
             </p>
             <p className="about-me">
