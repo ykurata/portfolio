@@ -1,10 +1,5 @@
 import React, { Component } from 'react';
 import '../css/Projects.css';
-import recordsDatabase from '../image/records-database.png';
-import project10 from '../image/project10.png';
-import python12 from '../image/python-project12.png';
-import birthday from '../image/birthday-reminder.png';
-import sitter from '../image/loving-sitter.png';
 
 class Projects extends Component {
   render() {
@@ -16,7 +11,7 @@ class Projects extends Component {
             <p className="project-p">Please check out my projects!</p>
           </div>
           <div className="project-container">
-            <div className="projectPhoto" style={{background: `url(${sitter}) no-repeat`, backgroundSize: '430px 265px'}}>
+            <div className="project-photo-sitter">
             </div>
             <div className="projectCopy">
               <h3 className="project-title">Loving Sitter</h3>
@@ -51,11 +46,11 @@ class Projects extends Component {
                 <button className="button">Live Demo</button>
               </div>
             </div>
-            <div className="projectPhoto-right" style={{background: `url(${recordsDatabase}) no-repeat`, backgroundSize: '430px 280px'}}>
+            <div className="project-photo-records">
             </div>
           </div>
           <div className="project-container">
-            <div className="projectPhoto" style={{background: `url(${project10}) no-repeat`, backgroundSize: '430px 280px'}}>
+            <div className="project-photo-project10">
             </div>
             <div className="projectCopy">
               <h3 className="project-title">REST API with React</h3>
@@ -90,11 +85,11 @@ class Projects extends Component {
                 <button className="button">Live Demo</button>
               </div>
             </div>
-            <div className="projectPhoto-right" style={{background: `url(${python12}) no-repeat`, backgroundSize: '450px 250px'}}>
+            <div className="project-photo-python12">
             </div>
           </div>
           <div className="project-container">
-            <div className="projectPhoto" style={{background: `url(${birthday}) no-repeat`, backgroundSize: '440px 280px'}}>
+            <div className="project-photo-birthday">
             </div>
             <div className="projectCopy">
               <h3 className="project-title">Birthday Reminder</h3>
