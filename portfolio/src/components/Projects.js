@@ -8,7 +8,7 @@ class Projects extends Component {
         <div className="container">
           <div className="main-title">
             <h2>Projects</h2>
-            <p className="project-p">Please check out my projects!</p>
+            <p>Please check out my projects!</p>
           </div>
           <div className="project-container">
             <div className="project-photo-sitter">
