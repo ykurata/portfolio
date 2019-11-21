@@ -27,7 +27,7 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/hatchways/team-hazelnut"><button className="button">GitHub</button></a>
-                <button className="button">Live Demo</button>
+                {/* <button className="button">Live Demo</button> */}
               </div>
             </div>
           </div>
@@ -43,7 +43,7 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/ykurata/SQL-records-database"><button className="button">GitHub</button></a>
-                <button className="button">Live Demo</button>
+                {/* <button className="button">Live Demo</button> */}
               </div>
             </div>
             <div className="project-photo-records">
@@ -64,7 +64,7 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/ykurata/FSJS-techdegree-project-10"><button className="button">GitHub</button></a>
-                <button className="button">Live Demo</button>
+                {/* <button className="button">Live Demo</button> */}
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/ykurata/techdegree-project-12"><button className="button">GitHub</button></a>
-                <button className="button">Live Demo</button>
+                {/* <button className="button">Live Demo</button> */}
               </div>
             </div>
             <div className="project-photo-python12">
@@ -102,7 +102,7 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/ykurata/Birthday-reminder"><button className="button">GitHub</button></a>
-                <button className="button">Live Demo</button>
+                {/* <button className="button">Live Demo</button> */}
               </div>
             </div>
           </div>
