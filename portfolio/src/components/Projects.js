@@ -64,7 +64,7 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/ykurata/FSJS-techdegree-project-10"><button className="button">GitHub</button></a>
-                {/* <button className="button">Live Demo</button> */}
+                <a href="https://fsjs-techdegree-10.herokuapp.com/"><button className="button">Live Demo</button></a>
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/ykurata/techdegree-project-12"><button className="button">GitHub</button></a>
-                {/* <button className="button">Live Demo</button> */}
+                <a href="https://python-techdegree-12.herokuapp.com/"><button className="button">Live Demo</button></a>
               </div>
             </div>
             <div className="project-photo-python12">
