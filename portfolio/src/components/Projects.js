@@ -102,7 +102,7 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/ykurata/Birthday-reminder"><button className="button">GitHub</button></a>
-                {/* <button className="button">Live Demo</button> */}
+                <a href="https://python-birthday-reminder.herokuapp.com/"><button className="button">Live Demo</button></a>
               </div>
             </div>
           </div>
