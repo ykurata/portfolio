@@ -28,8 +28,7 @@ class About extends Component {
               along with understanding of relational and non-relational databases.
             </p>
             <p className="about-me">
-              I continue to learn new skills on my own but I'm also eager to learn from other as a member of a passionate team and would love to
-              use my abilities to help a company and team grow.
+              I continue to learn new skills on my own but I'm also eager to learn from other as a member of a team!
             </p>
           </div>
         </div>
