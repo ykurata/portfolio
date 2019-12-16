@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Image } from 'react-bootstrap';
+import {ResponsiveEmbed, Image}from 'react-bootstrap';
 import '../css/Header.css';
 import sunset from '../image/sunset-2.jpg';
 
@@ -13,8 +13,10 @@ import sunset from '../image/sunset-2.jpg';
 class Header extends Component {
   render() {
     return (
-      <div id="Home">
-        <Image src={sunset} fluid />
+      <div id="Home" style={{ width: '100%', height: '100vh'}}>
+        <ResponsiveEmbed aspectRatio='16by9'>
+            <Image src={sunset} responseive='true'/>
+        </ResponsiveEmbed>
       </div>
       
     )

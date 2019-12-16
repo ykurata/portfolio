@@ -6,7 +6,7 @@ class Navigation extends Component {
   render() {
     return (
         <>
-            <Navbar className="navbar">
+            <Navbar bg="light" transparent='true'>
                 <Nav className="ml-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
                 <Nav.Link href="#About">About</Nav.Link>
