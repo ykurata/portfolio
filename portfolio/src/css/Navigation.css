@@ -1,14 +1,7 @@
-nav {
-  display: flex;
-  position: absolute;
-  justify-content: space-between;
-  align-items: center;
-  top: 0;
-  left: 0;
-  width: 100%;
+.navbar {
+  background-color: transparent !important;
 }
-
-.header-logo {
+/* .header-logo {
   font-size: 30px;
   color: white;
   margin-left: 40px;
@@ -31,4 +24,4 @@ nav {
 
 .navigation-a:hover {
   color: black;
-}
+} */
