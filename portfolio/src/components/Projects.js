@@ -43,7 +43,7 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/ykurata/SQL-records-database"><button className="button">GitHub</button></a>
-                {/* <button className="button">Live Demo</button> */}
+                <a href="https://sql-records-database.herokuapp.com"><button className="button">Live Demo</button></a>
               </div>
             </div>
             <div className="project-photo-records">
