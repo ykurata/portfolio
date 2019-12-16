@@ -52,27 +52,31 @@
 }
 
 .fas.fa-database {
-  margin-left: 13px;
+  margin-left: 20px;
 }
 
-.icon-inner-container {
+.icon-inner-container-node {
   margin-top: 20px;
-  margin-left: 8px;
+  margin-left: 3px;
 }
 
 .icon-inner-container-html {
   margin-top: 20px;
-  margin-left: 5px;
+}
+
+.icon-inner-container-css {
+  margin-top: 20px;
+  margin-left: 7px;
 }
 
 .icon-inner-container-python {
   margin-top: 20px;
-  margin-left: 9px;
+  margin-left: 5px;
 }
 
 .icon-inner-container-react  {
   margin-top: 20px;
-  margin-left: 17px;
+  margin-left: 13px;
 }
 
 .icon-inner-container-database {

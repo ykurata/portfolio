@@ -12,8 +12,8 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Navigation title="Yasuko Kurata"/>
-        <Header title="Yasuko Kurata" />
+        <Navigation />
+        <Header />
         <About />
         <Skills />
         <Projects />

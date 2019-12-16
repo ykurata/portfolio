@@ -1,10 +1,5 @@
 import React, { Component } from 'react';
 import '../css/Projects.css';
-import recordsDatabase from '../image/records-database.png';
-import project10 from '../image/project10.png';
-import python12 from '../image/python-project12.png';
-import birthday from '../image/birthday-reminder.png';
-import sitter from '../image/loving-sitter.png';
 
 class Projects extends Component {
   render() {
@@ -13,10 +8,10 @@ class Projects extends Component {
         <div className="container">
           <div className="main-title">
             <h2>Projects</h2>
-            <p className="project-p">Please check out my projects!</p>
+            <p>Please check out my projects!</p>
           </div>
           <div className="project-container">
-            <div className="projectPhoto" style={{background: `url(${sitter}) no-repeat`, backgroundSize: '430px 265px'}}>
+            <div className="project-photo-sitter">
             </div>
             <div className="projectCopy">
               <h3 className="project-title">Loving Sitter</h3>
@@ -32,7 +27,7 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/hatchways/team-hazelnut"><button className="button">GitHub</button></a>
-                <button className="button">Live Demo</button>
+                {/* <button className="button">Live Demo</button> */}
               </div>
             </div>
           </div>
@@ -48,14 +43,14 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/ykurata/SQL-records-database"><button className="button">GitHub</button></a>
-                <button className="button">Live Demo</button>
+                <a href="https://sql-records-database.herokuapp.com"><button className="button">Live Demo</button></a>
               </div>
             </div>
-            <div className="projectPhoto-right" style={{background: `url(${recordsDatabase}) no-repeat`, backgroundSize: '430px 280px'}}>
+            <div className="project-photo-records">
             </div>
           </div>
           <div className="project-container">
-            <div className="projectPhoto" style={{background: `url(${project10}) no-repeat`, backgroundSize: '430px 280px'}}>
+            <div className="project-photo-project10">
             </div>
             <div className="projectCopy">
               <h3 className="project-title">REST API with React</h3>
@@ -69,7 +64,7 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/ykurata/FSJS-techdegree-project-10"><button className="button">GitHub</button></a>
-                <button className="button">Live Demo</button>
+                <a href="https://fsjs-techdegree-10.herokuapp.com/"><button className="button">Live Demo</button></a>
               </div>
             </div>
           </div>
@@ -87,27 +82,27 @@ class Projects extends Component {
               </div>
               <div className="projectButton">
                 <a href="https://github.com/ykurata/techdegree-project-12"><button className="button">GitHub</button></a>
-                <button className="button">Live Demo</button>
+                <a href="https://python-techdegree-12.herokuapp.com/"><button className="button">Live Demo</button></a>
               </div>
             </div>
-            <div className="projectPhoto-right" style={{background: `url(${python12}) no-repeat`, backgroundSize: '450px 250px'}}>
+            <div className="project-photo-python12">
             </div>
           </div>
           <div className="project-container">
-            <div className="projectPhoto" style={{background: `url(${birthday}) no-repeat`, backgroundSize: '440px 280px'}}>
+            <div className="project-photo-birthday">
             </div>
             <div className="projectCopy">
               <h3 className="project-title">Birthday Reminder</h3>
               <h5>Python / Django / Sqlite</h5>
               <div className="copy">
-                <h6>An app that helps you remember your friends birthdays by sending a reminder to slack. <br></br>
+                <h6>An app that helps you remember your friends birthdays by showing a reminder on the page. <br></br>
                   User can login and save, edit or delete birthdays you don't want to forget.
-                  Sends a slack notification on the day of your friend or families birthday so you no longer have to check facebook.
+                  Display a notification on the day of your friends or families birthday so you no longer have to check facebook.
                 </h6>
               </div>
               <div className="projectButton">
                 <a href="https://github.com/ykurata/Birthday-reminder"><button className="button">GitHub</button></a>
-                <button className="button">Live Demo</button>
+                <a href="https://python-birthday-reminder.herokuapp.com/"><button className="button">Live Demo</button></a>
               </div>
             </div>
           </div>

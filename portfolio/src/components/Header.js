@@ -13,7 +13,7 @@ class Header extends Component {
   render() {
     return (
       <header id="Home" style={myStyle}>
-        <h1>{this.props.title}</h1>
+        <h1>Yasuko Kurata</h1>
         <p>Web developer who's passionate about coding!</p>
       </header>
     )

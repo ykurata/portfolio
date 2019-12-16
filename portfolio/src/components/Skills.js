@@ -13,38 +13,38 @@ class Skills extends Component {
           <div className="icons-container">
             <div className="icon-container">
               <i className="fab fa-node-js"></i>
-              <div className="icon-inner-container">
-                <p>NodeJS</p>
+              <div className="icon-inner-container-node">
+                <h6>NodeJS</h6>
               </div>
             </div>
             <div className="icon-container">
               <i className="fab fa-react"></i>
               <div className="icon-inner-container-react">
-                <p>React</p>
+                <h6>React</h6>
               </div>
             </div>
             <div className="icon-container">
               <i className="fas fa-database"></i>
               <div className="icon-inner-container-database">
-                <p>MongoDB/SQL</p>
+                <h6>MongoDB/SQL</h6>
               </div>
             </div>
             <div className="icon-container">
               <i className="fab fa-python"></i>
               <div className="icon-inner-container-python">
-                <p>Python</p>
+                <h6>Python</h6>
               </div>
             </div>
             <div className="icon-container">
               <i className="fab fa-html5"></i>
               <div className="icon-inner-container-html">
-                <p>HTML5</p>
+                <h6>HTML5</h6>
               </div>
             </div>
             <div className="icon-container">
               <i className="fab fa-css3-alt"></i>
-              <div className="icon-inner-container">
-                <p>CSS3</p>
+              <div className="icon-inner-container-css">
+                <h6>CSS3</h6>
               </div>
             </div>
           </div>
