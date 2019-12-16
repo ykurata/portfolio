@@ -1,21 +1,20 @@
 import React, { Component } from 'react';
-import '../css/Navigation.css';
+import { Navbar, Nav } from 'react-bootstrap';
 
 class Navigation extends Component {
   render() {
-    const sections = ["Home", "About", "Skills", "Projects", "Contact"];
-    const navLinks = sections.map( (section, i) => {
-      return (
-        <li className="navigation-li" key={i}><a href={'#' + section} className="navigation-a">{section}</a></li>
-      );
-    });
     return (
-      <nav>
-        <h2 className="header-logo">{}</h2>
-        <ul className="navigation-ul">
-          {navLinks}
-        </ul>
-      </nav>
+        <>
+            <Navbar bg="light" variant="light">
+                <Nav className="ml-auto">
+                <Nav.Link href="#home">Home</Nav.Link>
+                <Nav.Link href="#About">About</Nav.Link>
+                <Nav.Link href="#Skills">Skills</Nav.Link>
+                <Nav.Link href="#Projects">Projects</Nav.Link>
+                <Nav.Link href="#Contact">Contact</Nav.Link>
+                </Nav>
+            </Navbar>
+        </>
     );
   }
 }
