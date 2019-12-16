@@ -95,9 +95,9 @@ class Projects extends Component {
               <h3 className="project-title">Birthday Reminder</h3>
               <h5>Python / Django / Sqlite</h5>
               <div className="copy">
-                <h6>An app that helps you remember your friends birthdays by sending a reminder to slack. <br></br>
+                <h6>An app that helps you remember your friends birthdays by showing a reminder on the page. <br></br>
                   User can login and save, edit or delete birthdays you don't want to forget.
-                  Sends a slack notification on the day of your friend or families birthday so you no longer have to check facebook.
+                  Display a notification on the day of your friends or families birthday so you no longer have to check facebook.
                 </h6>
               </div>
               <div className="projectButton">
