@@ -21,13 +21,13 @@ class Projects extends Component {
                   <b>Hatchways Project-Based Development Course's project<br></br></b>
                   This application is for dog owners who need to find a dog sitter, <br></br>
                   and dog sitters. <br></br>
-                  This app allows dog owners to see dog sitter's profiles and reviews, 
-                  so dog owners are able to find and book the top rated dog sitters.
+                  The app allows dog owners to find dog sitters 
+                  by viewing profiles and sending messages to potential sitters.
                 </h6>
               </div>
               <div className="projectButton">
-                <a href="https://github.com/hatchways/team-hazelnut"><button className="button">GitHub</button></a>
-                {/* <button className="button">Live Demo</button> */}
+                <a href="https://github.com/ykurata/Loving-Sitter"><button className="button">GitHub</button></a>
+                <a href="https://hatchways-loving-sitter.herokuapp.com/"><button className="button">Live Demo</button></a>
               </div>
             </div>
           </div>
