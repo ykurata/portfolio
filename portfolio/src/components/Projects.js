@@ -26,8 +26,8 @@ class Projects extends Component {
                 </h6>
               </div>
               <div className="projectButton">
-                <a href="https://github.com/ykurata/Loving-Sitter" target="_blank"><button className="button">GitHub</button></a>
-                <a href="https://hatchways-loving-sitter.herokuapp.com/" target="_blank"><button className="button">Live Demo</button></a>
+                <a href="https://github.com/ykurata/Loving-Sitter" target="_blank" rel="noopener noreferrer"><button className="button">GitHub</button></a>
+                <a href="https://hatchways-loving-sitter.herokuapp.com/" target="_blank" rel="noopener noreferrer"><button className="button">Live Demo</button></a>
               </div>
             </div>
           </div>
@@ -42,8 +42,8 @@ class Projects extends Component {
                 </h6>
               </div>
               <div className="projectButton">
-                <a href="https://github.com/ykurata/SQL-records-database" target="_blank"><button className="button">GitHub</button></a>
-                <a href="https://sql-records-database.herokuapp.com" target="_blank"><button className="button">Live Demo</button></a>
+                <a href="https://github.com/ykurata/SQL-records-database" target="_blank" rel="noopener noreferrer"><button className="button">GitHub</button></a>
+                <a href="https://sql-records-database.herokuapp.com" target="_blank" rel="noopener noreferrer"><button className="button">Live Demo</button></a>
               </div>
             </div>
             <div className="project-photo-records">
@@ -63,8 +63,8 @@ class Projects extends Component {
                 </h6>
               </div>
               <div className="projectButton">
-                <a href="https://github.com/ykurata/FSJS-techdegree-project-10" target="_blank"><button className="button">GitHub</button></a>
-                <a href="https://fsjs-techdegree-10.herokuapp.com/" target="_blank"><button className="button">Live Demo</button></a>
+                <a href="https://github.com/ykurata/FSJS-techdegree-project-10" target="_blank" rel="noopener noreferrer"><button className="button">GitHub</button></a>
+                <a href="https://fsjs-techdegree-10.herokuapp.com/" target="_blank" rel="noopener noreferrer"><button className="button">Live Demo</button></a>
               </div>
             </div>
           </div>
@@ -81,8 +81,8 @@ class Projects extends Component {
                 </h6>
               </div>
               <div className="projectButton">
-                <a href="https://github.com/ykurata/techdegree-project-12" target="_blank"><button className="button">GitHub</button></a>
-                <a href="https://python-techdegree-12.herokuapp.com/" target="_blank"><button className="button">Live Demo</button></a>
+                <a href="https://github.com/ykurata/techdegree-project-12" target="_blank" rel="noopener noreferrer"><button className="button">GitHub</button></a>
+                <a href="https://python-techdegree-12.herokuapp.com/" target="_blank" rel="noopener noreferrer"><button className="button">Live Demo</button></a>
               </div>
             </div>
             <div className="project-photo-python12">
@@ -101,8 +101,8 @@ class Projects extends Component {
                 </h6>
               </div>
               <div className="projectButton">
-                <a href="https://github.com/ykurata/Birthday-reminder" target="_blank"><button className="button">GitHub</button></a>
-                <a href="https://python-birthday-reminder.herokuapp.com/" target="_blank"><button className="button">Live Demo</button></a>
+                <a href="https://github.com/ykurata/Birthday-reminder" target="_blank" rel="noopener noreferrer"><button className="button">GitHub</button></a>
+                <a href="https://python-birthday-reminder.herokuapp.com/" target="_blank" rel="noopener noreferrer"><button className="button">Live Demo</button></a>
               </div>
             </div>
           </div>
